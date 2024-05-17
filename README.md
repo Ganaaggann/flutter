@@ -1,4 +1,4 @@
-# insta
+# instagram clone ic20d017 gantulga
 
 A new Flutter project.
 
